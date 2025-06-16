@@ -1,3 +1,4 @@
+What I have learned from this course
 By mastering commits and version history, you’ll gain the confidence to manage your projects with precision, track progress, and collaborate effectively with your team.
 
 Click through the interactives below to learn more about commits and version histories. The content within will be your guide that explains the concept of commits and provides step-by-step instructions for you to make your first commit on GitHub, helping you understand how changes to files are tracked.
