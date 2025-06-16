@@ -1,0 +1,16 @@
+By mastering commits and version history, you’ll gain the confidence to manage your projects with precision, track progress, and collaborate effectively with your team.
+
+Click through the interactives below to learn more about commits and version histories. The content within will be your guide that explains the concept of commits and provides step-by-step instructions for you to make your first commit on GitHub, helping you understand how changes to files are tracked.
+
+What Is a Commit?
+Making Your First Commit on GitHub
+Commit Best Practices
+Viewing Commit History
+Understanding your commit history is essential for tracking the evolution of your project. Each commit represents a point in time, documenting what changes were made, who made them, and why. By reviewing the commit history, you can trace progress, identify contributors, and pinpoint when and where issues may have occurred. This part of the lesson will guide you through viewing and interpreting your repository’s commit history on GitHub, ensuring you can effectively manage and troubleshoot your projects.
+
+Click through the interactives below to learn how to view the history of changes, compare versions, and restore previous versions in your GitHub repository.
+
+Viewing Your Repository’s Commit History
+Comparing Changes Between Commits
+Restoring a Previous Version
+So what did we cover in this lesson? Commits act as critical checkpoints in your project, capturing changes and helping you maintain a detailed history of your work. By leveraging the commit history, you can easily view and compare past versions, identify contributors, and understand the evolution of your project. Additionally, GitHub provides intuitive tools to revert mistakes and facilitate seamless collaboration, making it a powerful platform for efficient project management.
